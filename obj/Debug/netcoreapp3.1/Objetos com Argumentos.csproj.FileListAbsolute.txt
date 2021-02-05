@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Objetos com Argumentos\obj\Debug\netcoreapp3.1\Objetos com Argumentos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Objetos com Argumentos\obj\Debug\netcoreapp3.1\Objetos com Argumentos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Objetos com Argumentos\obj\Debug\netcoreapp3.1\Objetos com Argumentos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.exe
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.deps.json
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.runtimeconfig.json
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.dll
+C:\Users\fic\Desktop\Objetos com Argumentos\bin\Debug\netcoreapp3.1\Objetos com Argumentos.pdb
+C:\Users\fic\Desktop\Objetos com Argumentos\obj\Debug\netcoreapp3.1\Objetos com Argumentos.dll
+C:\Users\fic\Desktop\Objetos com Argumentos\obj\Debug\netcoreapp3.1\Objetos com Argumentos.pdb
